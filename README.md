@@ -6,10 +6,10 @@ A 8-Puzzle game solver using basic AI algorithms (BFS, DFS, A* with multiple heu
 ## Screenshots
 
 ### BFS
-![BFS](https://i.ibb.co/nzK87Q8/bfs.gif)
+![BFS](https://raw.githubusercontent.com/andrewwahid/8Puzzle/master/ss/bfs.gif)
 
 ### DFS
-![DFS](https://i.ibb.co/cJgD0cF/dfs.gif)
+![DFS](https://raw.githubusercontent.com/andrewwahid/8Puzzle/master/ss/dfs.gif)
 
 ### A*
-![A*](https://i.ibb.co/N9nWCWP/aStar.gif)
+![A*](https://raw.githubusercontent.com/andrewwahid/8Puzzle/master/ss/aStar.gif)
